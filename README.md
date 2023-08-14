@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smk7540)](https://solved.ac/smk7540)
 <!--
 **SongMinQQ/SongMinQQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
