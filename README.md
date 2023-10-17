@@ -1,4 +1,9 @@
 ### Hi there 👋
+<div>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smk7540)](https://solved.ac/smk7540)
 <!--
 **SongMinQQ/SongMinQQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
