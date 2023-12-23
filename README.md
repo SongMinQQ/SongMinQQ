@@ -6,11 +6,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongMinQQ)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smk7540)](https://solved.ac/smk7540)
-IPCG LAB 학부연구원 2023-04 ~
+
+##Activites
+
+IPCG LAB 학부연구생 2023-04 ~
 <!--
 **SongMinQQ/SongMinQQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Activites
+
 
 Here are some ideas to get you started:
 
