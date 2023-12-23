@@ -21,7 +21,7 @@
 #### Backend
 
 <div style={display:flex; gap:50px;}>
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">
 </div>
