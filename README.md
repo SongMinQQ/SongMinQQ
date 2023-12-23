@@ -3,8 +3,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongMinQQ&show_icons=true&theme=transparent) 
 
+## Using Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongMinQQ)](https://github.com/anuraghazra/github-readme-stats)
 
+## Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smk7540)](https://solved.ac/smk7540)
 
 ## Activites
