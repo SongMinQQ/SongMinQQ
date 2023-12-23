@@ -10,6 +10,14 @@
 
 IPCG LAB 학부연구생 2023-04 ~
 
+## Awards
+
+▶ 2022.10.18 사회문제 해결형 슈퍼로컬 해커톤 장려상
+▶ 2022.12.15 컴퓨터공학부 C언어 경진대회 동상
+▶ 2022.12.15 컴퓨터공학부 자바 경진대회 은상
+▶ 2023.12.12 컴퓨터공학부 C언어 경진대회 은상
+▶ 2022.12.14 Smart IT 경진대회 동상
+
 ## Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smk7540)](https://solved.ac/smk7540)
 
