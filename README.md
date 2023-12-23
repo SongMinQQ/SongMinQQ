@@ -8,9 +8,9 @@
 
 ## 📚Tech Stack
 
-# Frontend
+#### Frontend
 
-# Backend
+#### Backend
 
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
