@@ -3,14 +3,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongMinQQ&show_icons=true&theme=transparent) 
 
-## Using Languages
+## 💻Using Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongMinQQ)](https://github.com/anuraghazra/github-readme-stats)
 
-## Activites
+## 📚Activites
 
 IPCG LAB 학부연구생 2023-04 ~
 
-## Awards
+## 🏆Awards
 
 ▶ 2022.10.18 사회문제 해결형 슈퍼로컬 해커톤 장려상
 
