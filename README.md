@@ -7,7 +7,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smk7540)](https://solved.ac/smk7540)
 
-##Activites
+## Activites
 
 IPCG LAB 학부연구생 2023-04 ~
 <!--
