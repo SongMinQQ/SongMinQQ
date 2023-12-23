@@ -10,6 +10,8 @@ IPCG LAB 학부연구원 2023-04 ~
 <!--
 **SongMinQQ/SongMinQQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Activites
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
