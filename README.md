@@ -34,6 +34,13 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
+#### Interested in
+
+<div style={display:flex; gap:50px;}>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</div>
+
 ## 📋Activites
 
 IPCG LAB 학부연구원 Web dev 2023-04 ~
