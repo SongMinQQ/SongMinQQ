@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongMinQQ&show_icons=true&theme=transparent) 
 
-major GBA (4.0/4.5)
+Software Engineering major GPA (4.0/4.5)
 ## 💻Using Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongMinQQ)](https://github.com/anuraghazra/github-readme-stats)
 
