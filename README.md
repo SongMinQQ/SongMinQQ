@@ -19,7 +19,6 @@ Software Engineering major GPA (4.0/4.5)
   <img src="https://img.shields.io/badge/react_native-61DAFB.svg?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=purple">
   <img src="https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37">
-  <img src="https://img.shields.io/badge/stripe-008CDD?style=flat&logo=stripe&logoColor=white">
 </div>
 
 #### Backend
