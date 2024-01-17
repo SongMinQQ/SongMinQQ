@@ -48,7 +48,7 @@ Software Engineering major GPA (4.0/4.5)
 
 ## 📋Activites
 
-BU 1129 LAB 학부연구원 Web dev 2023-03 ~
+DISTRIBUTED COMPUTING LAB 학부연구원 Web dev 2023-03 ~
 
 ## 🏆Awards
 
