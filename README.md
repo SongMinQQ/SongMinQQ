@@ -60,7 +60,7 @@ DISTRIBUTED COMPUTING LAB 학부연구원 Web dev 2023-03 ~
 
 ▶ 2023.12.12 컴퓨터공학부 C언어 경진대회 은상
 
-▶ 2022.12.14 Smart IT 경진대회 동상
+▶ 2023.12.14 Smart IT 경진대회 동상
 
 ## Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smk7540)](https://solved.ac/smk7540)
