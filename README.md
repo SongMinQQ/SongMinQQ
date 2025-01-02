@@ -47,7 +47,7 @@
 
 ## 📋Activites
 
-DISTRIBUTED COMPUTING LAB 학부연구원 Web dev 2023-03 ~
+DISTRIBUTED COMPUTING LAB 학부연구원 Web dev 2023-03 ~ 2025-03
 
 ## 🏆Awards
 
