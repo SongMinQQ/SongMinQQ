@@ -49,6 +49,8 @@
 
 DISTRIBUTED COMPUTING LAB 학부연구원 Web dev 2023-03 ~ 2025-03
 
+LGU+ 유레카 Frontend 2기 2025-01 ~2025-08
+
 ## Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smk7540)](https://solved.ac/smk7540)
 
