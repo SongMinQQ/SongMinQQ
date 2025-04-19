@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=purple">
   <img src="https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 </div>
 
 #### Backend
