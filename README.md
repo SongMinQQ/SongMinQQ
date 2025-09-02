@@ -4,6 +4,13 @@
 
 꾸준한 학습과 문제 해결을 통해 더 나은 서비스를 만들고, 변화하는 기술 속에서도 유연하게 성장하는 것을 목표로 하고 있습니다.
 
+## Contridute
+
+| 프로젝트 | PR |
+|----------|----|
+| [npm/promise-spawn](https://github.com/npm/promise-spawn) | [#137](https://github.com/npm/promise-spawn/pull/137) |
+
+
 ## 📚Tech Stack
 
 <div style={display:flex; gap:50px;}>
