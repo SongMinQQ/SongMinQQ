@@ -1,9 +1,8 @@
+## Introduce
 
-<div style={display:flex; justify-content: space-between;}>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongMinQQ&show_icons=true&theme=transparent) 
+사용자 경험을 중심에 두고 완성도 높은 서비스를 개발하는 프론트엔드 개발자 송민규입니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongMinQQ)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+꾸준한 학습과 문제 해결을 통해 더 나은 서비스를 만들고, 변화하는 기술 속에서도 유연하게 성장하는 것을 목표로 하고 있습니다.
 
 ## 📚Tech Stack
 
@@ -25,23 +24,7 @@ DISTRIBUTED COMPUTING LAB 학부연구원 Web dev 2023-03 ~ 2025-03
 
 LGU+ 유레카 Frontend 2기 2025-01 ~2025-08
 
+<img src="https://github-readme-stats.vercel.app/api?username=SongMinQQ&show_icons=true&theme=transparent" />
+
 ## Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smk7540)](https://solved.ac/smk7540)
-
-
-<!--
-**SongMinQQ/SongMinQQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
