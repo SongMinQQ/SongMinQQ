@@ -6,7 +6,7 @@
 
 ## Contribute
 
-| 프로젝트 | PR |
+| Reposiory | PR |
 |----------|----|
 | [npm/promise-spawn](https://github.com/npm/promise-spawn) | [#137](https://github.com/npm/promise-spawn/pull/137) |
 
