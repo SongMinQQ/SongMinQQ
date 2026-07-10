@@ -28,7 +28,9 @@
 
 DISTRIBUTED COMPUTING LAB 학부연구원 Web dev 2023-03 ~ 2025-03
 
-LGU+ 유레카 Frontend 2기 2025-01 ~2025-08
+LGU+ 유레카 Frontend 2기 2025-01 ~ 2025-08
+
+삼성 AI•SW 아카데미 SSAFY 16기 2026-07 ~ 진행중
 
 <img src="https://github-readme-stats.vercel.app/api?username=SongMinQQ&show_icons=true&theme=transparent" />
 
