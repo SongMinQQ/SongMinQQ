@@ -34,5 +34,13 @@ LGU+ 유레카 Frontend 2기 2025-01 ~ 2025-08
 
 ## 🕋Work experience
 
+**kt cs**
+
+2026.09.14 ~ 근무중
+
+보이스봇&챗봇 저작 및 개발
+
+AICC 저작그룹
+
 ## Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smk7540)](https://solved.ac/smk7540)
