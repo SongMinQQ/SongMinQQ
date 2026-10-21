@@ -32,11 +32,5 @@ LGU+ 유레카 Frontend 2기 2025-01 ~ 2025-08
 
 삼성 SW•AI 아카데미 SSAFY 16기 2026-07 ~ 2026-09
 
-## 🕋Work experience
-
-**KT cs** | 2026.09.14 ~ 근무중
-
-AICC 저작그룹 | 보이스봇&챗봇 저작 및 개발
-
 ## Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smk7540)](https://solved.ac/smk7540)
